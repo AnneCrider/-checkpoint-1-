@@ -1,0 +1,42 @@
+header {
+
+	background: url(img/sete-574450_1920.jpg) center bottom no-repeat;
+	
+}
+
+h1 {
+	text-align: center;
+}
+
+
+.nav {
+	background-color: black;
+	  	
+}
+@media (max-width: 1200px) {
+.row
+ {
+ 	
+ }
+}
+
+@media (max-width: 1000px) {
+ .row
+ {
+ 	
+ }
+}
+
+@media (max-width: 800px) {
+  .row
+ {
+ 	
+ }
+}
+
+@media (max-width: 400px) {
+ .row
+ {
+ 	
+ }
+}
